@@ -36,7 +36,7 @@
     "express": "4.12.3",
     "extract-text-webpack-plugin": "^0.8.2",
     "fs-extra": "0.17.0",
-    "fstream": "1.0.6",
+    "fstream": "1.0.12",
     "http-proxy": "1.11.1",
     "lodash": "^3.10.1",
     "request": "2.54.0",
